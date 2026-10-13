@@ -1,0 +1,7 @@
+{
+  "name": "Signage Sales CRM",
+  "description": "Professional frontend CRM for signage manufacturing, materials, and machinery sales with lead tracking, call logging, quotation builder, and offline storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
